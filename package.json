@@ -1,0 +1,24 @@
+{
+  "name": "portofolio-neveen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeveenBeiram/portofolio-neveen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeveenBeiram/portofolio-neveen/issues"
+  },
+  "homepage": "https://github.com/NeveenBeiram/portofolio-neveen#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
